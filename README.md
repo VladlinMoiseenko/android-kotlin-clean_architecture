@@ -11,4 +11,5 @@
 1. Create API key from https://newsapi.org/
 2. Put API key in the presentation level Gradle file
 
+### Screenshot:
 ![Screenshot](Screenshot.jpg)
