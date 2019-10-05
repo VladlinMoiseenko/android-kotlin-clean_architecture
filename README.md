@@ -12,4 +12,4 @@
 2. Put API key in the presentation level Gradle file
 
 ### Screenshot:
-![Screenshot](Screenshot.jpg)
+![Screenshot](Screenshot_android-kotlin-clean_architecture.jpg)
